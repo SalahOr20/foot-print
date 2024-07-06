@@ -1,0 +1,26 @@
+<annotation>
+	<folder>‭lion</folder>
+	<filename>stock-photo-a-lion-s-footprint-in-the-soft-sand-89466415.jpg</filename>
+	<path>C:\Users\marhr\Desktop\‭lion\stock-photo-a-lion-s-footprint-in-the-soft-sand-89466415.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1101</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>231</ymin>
+			<xmax>1167</xmax>
+			<ymax>758</ymax>
+		</bndbox>
+	</object>
+</annotation>

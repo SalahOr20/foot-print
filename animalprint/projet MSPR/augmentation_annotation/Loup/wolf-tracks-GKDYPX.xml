@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Loup</folder>
+	<filename>wolf-tracks-GKDYPX.jpg</filename>
+	<path>C:\Users\Thuy-trang\Desktop\mspr-ia\projet MSPR\Mammiferes\Loup\wolf-tracks-GKDYPX.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>710</xmin>
+			<ymin>103</ymin>
+			<xmax>1183</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>loup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>372</ymin>
+			<xmax>630</xmax>
+			<ymax>718</ymax>
+		</bndbox>
+	</object>
+</annotation>

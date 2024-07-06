@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Loup</folder>
+	<filename>fresh-wolf-tracks-in-wet-sand-on-a-beach-of-the-brookes-peninsula-vancouver-island-british-columbia-W5N2CA.jpg</filename>
+	<path>C:\Users\Thuy-trang\Desktop\mspr-ia\projet MSPR\Mammiferes\Loup\fresh-wolf-tracks-in-wet-sand-on-a-beach-of-the-brookes-peninsula-vancouver-island-british-columbia-W5N2CA.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>951</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>365</ymin>
+			<xmax>516</xmax>
+			<ymax>655</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>loup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>663</xmin>
+			<ymin>256</ymin>
+			<xmax>931</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

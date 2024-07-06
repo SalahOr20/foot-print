@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Raton laveur</folder>
+	<filename>efp0ea.jpg</filename>
+	<path>C:\Users\user\OneDrive\Documents\GitHub\mspr-ia\projet MSPR\Mammiferes\Raton laveur\efp0ea.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>13</ymin>
+			<xmax>357</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>192</ymin>
+			<xmax>558</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

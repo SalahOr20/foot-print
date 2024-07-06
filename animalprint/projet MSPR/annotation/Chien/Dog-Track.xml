@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chien</folder>
+	<filename>Dog-Track.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chien\Dog-Track.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>126</ymin>
+			<xmax>701</xmax>
+			<ymax>793</ymax>
+		</bndbox>
+	</object>
+</annotation>

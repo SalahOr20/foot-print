@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Ours</folder>
+	<filename>original (1).jpg</filename>
+	<path>C:\Users\user\OneDrive\Documents\GitHub\mspr-ia\projet MSPR\Mammiferes\Ours\original (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>709</ymin>
+			<xmax>1077</xmax>
+			<ymax>1342</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>454</xmin>
+			<ymin>1474</ymin>
+			<xmax>975</xmax>
+			<ymax>1865</ymax>
+		</bndbox>
+	</object>
+</annotation>

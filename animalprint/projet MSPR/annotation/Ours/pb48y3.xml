@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ours</folder>
+	<filename>pb48y3.jpg</filename>
+	<path>C:\Users\user\OneDrive\Documents\GitHub\mspr-ia\projet MSPR\Mammiferes\Ours\pb48y3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>447</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>88</ymin>
+			<xmax>467</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

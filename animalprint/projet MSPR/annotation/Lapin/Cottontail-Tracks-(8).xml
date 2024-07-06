@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Lapin</folder>
+	<filename>Cottontail-Tracks-(8).jpg</filename>
+	<path>C:\Users\Thuy-trang\Desktop\mspr-ia\projet MSPR\Mammiferes\Lapin\Cottontail-Tracks-(8).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lapin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>119</ymin>
+			<xmax>442</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lapin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>487</xmin>
+			<ymin>174</ymin>
+			<xmax>701</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+</annotation>

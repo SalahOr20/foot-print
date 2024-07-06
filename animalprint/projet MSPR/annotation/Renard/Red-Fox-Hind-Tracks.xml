@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Renard</folder>
+	<filename>Red-Fox-Hind-Tracks.jpg</filename>
+	<path>C:\Users\user\OneDrive\Documents\GitHub\mspr-ia\projet MSPR\Mammiferes\Renard\Red-Fox-Hind-Tracks.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>767</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>146</ymin>
+			<xmax>609</xmax>
+			<ymax>809</ymax>
+		</bndbox>
+	</object>
+</annotation>

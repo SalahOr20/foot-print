@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Chien</folder>
+	<filename>dh0345.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chien\dh0345.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>347</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>18</ymin>
+			<xmax>272</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>275</ymin>
+			<xmax>203</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

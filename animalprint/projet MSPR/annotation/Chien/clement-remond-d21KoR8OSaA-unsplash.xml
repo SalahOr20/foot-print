@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chien</folder>
+	<filename>clement-remond-d21KoR8OSaA-unsplash.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chien\clement-remond-d21KoR8OSaA-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>5184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>3197</ymin>
+			<xmax>1675</xmax>
+			<ymax>3932</ymax>
+		</bndbox>
+	</object>
+</annotation>

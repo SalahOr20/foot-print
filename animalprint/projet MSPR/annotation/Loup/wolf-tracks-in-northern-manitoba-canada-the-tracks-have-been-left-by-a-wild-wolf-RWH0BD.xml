@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Loup</folder>
+	<filename>wolf-tracks-in-northern-manitoba-canada-the-tracks-have-been-left-by-a-wild-wolf-RWH0BD.jpg</filename>
+	<path>C:\Users\Thuy-trang\Desktop\mspr-ia\projet MSPR\Mammiferes\Loup\wolf-tracks-in-northern-manitoba-canada-the-tracks-have-been-left-by-a-wild-wolf-RWH0BD.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>145</ymin>
+			<xmax>590</xmax>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>loup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>818</ymin>
+			<xmax>720</xmax>
+			<ymax>1213</ymax>
+		</bndbox>
+	</object>
+</annotation>

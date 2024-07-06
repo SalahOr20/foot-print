@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Loup</folder>
+	<filename>close-up-of-a-maned-wolf-tracks-in-sandy-riverbed-caraca-natural-park-minas-gerais-brazil-2RYP21G.jpg</filename>
+	<path>C:\Users\Thuy-trang\Desktop\mspr-ia\projet MSPR\Mammiferes\Loup\close-up-of-a-maned-wolf-tracks-in-sandy-riverbed-caraca-natural-park-minas-gerais-brazil-2RYP21G.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>150</ymin>
+			<xmax>465</xmax>
+			<ymax>673</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>loup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>628</ymin>
+			<xmax>827</xmax>
+			<ymax>1301</ymax>
+		</bndbox>
+	</object>
+</annotation>

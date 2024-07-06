@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Loup</folder>
+	<filename>north-america-united-states-alaska-spring-wildlife-wolf-canis-lupus-wolf-tracks-in-mud-2H3BP9K.jpg</filename>
+	<path>C:\Users\Thuy-trang\Desktop\mspr-ia\projet MSPR\Mammiferes\Loup\north-america-united-states-alaska-spring-wildlife-wolf-canis-lupus-wolf-tracks-in-mud-2H3BP9K.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>858</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>324</ymin>
+			<xmax>748</xmax>
+			<ymax>1101</ymax>
+		</bndbox>
+	</object>
+</annotation>

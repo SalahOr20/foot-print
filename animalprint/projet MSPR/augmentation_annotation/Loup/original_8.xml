@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Loup</folder>
+	<filename>original_8.jpg</filename>
+	<path>C:\Users\Thuy-trang\Desktop\mspr-ia\projet MSPR\Mammiferes\Loup\original_8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>231</ymin>
+			<xmax>1600</xmax>
+			<ymax>1341</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>‭lion</folder>
+	<filename>mountainlionfootprint.jpg</filename>
+	<path>C:\Users\marhr\Desktop\‭lion\mountainlionfootprint.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>159</ymin>
+			<xmax>393</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

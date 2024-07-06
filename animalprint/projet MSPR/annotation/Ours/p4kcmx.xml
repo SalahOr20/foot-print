@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ours</folder>
+	<filename>p4kcmx.jpg</filename>
+	<path>C:\Users\user\OneDrive\Documents\GitHub\mspr-ia\projet MSPR\Mammiferes\Ours\p4kcmx.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>57</ymin>
+			<xmax>420</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>

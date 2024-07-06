@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ecureuil</folder>
+	<filename>California-Ground-Squirrel-Tracks-5.jpg</filename>
+	<path>C:\Users\Thuy-trang\Desktop\mspr-ia\projet MSPR\Mammiferes\Ecureuil\California-Ground-Squirrel-Tracks-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>745</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecureuil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>2</ymin>
+			<xmax>710</xmax>
+			<ymax>707</ymax>
+		</bndbox>
+	</object>
+</annotation>

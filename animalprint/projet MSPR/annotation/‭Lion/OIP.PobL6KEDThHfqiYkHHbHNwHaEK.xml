@@ -1,0 +1,26 @@
+<annotation>
+	<folder>‭lion</folder>
+	<filename>OIP.PobL6KEDThHfqiYkHHbHNwHaEK.jpg</filename>
+	<path>C:\Users\marhr\Desktop\‭lion\OIP.PobL6KEDThHfqiYkHHbHNwHaEK.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>388</width>
+		<height>234</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>33</ymin>
+			<xmax>249</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

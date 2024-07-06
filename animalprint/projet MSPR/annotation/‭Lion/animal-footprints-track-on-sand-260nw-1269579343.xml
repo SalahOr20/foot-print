@@ -1,0 +1,26 @@
+<annotation>
+	<folder>‭lion</folder>
+	<filename>animal-footprints-track-on-sand-260nw-1269579343.jpg</filename>
+	<path>C:\Users\marhr\Desktop\‭lion\animal-footprints-track-on-sand-260nw-1269579343.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>406</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>72</ymin>
+			<xmax>299</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

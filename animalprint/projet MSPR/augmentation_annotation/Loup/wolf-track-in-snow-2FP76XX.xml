@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Loup</folder>
+	<filename>wolf-track-in-snow-2FP76XX.jpg</filename>
+	<path>C:\Users\Thuy-trang\Desktop\mspr-ia\projet MSPR\Mammiferes\Loup\wolf-track-in-snow-2FP76XX.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loup</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>-10</xmin>
+			<ymin>173</ymin>
+			<xmax>788</xmax>
+			<ymax>1166</ymax>
+		</bndbox>
+	</object>
+</annotation>

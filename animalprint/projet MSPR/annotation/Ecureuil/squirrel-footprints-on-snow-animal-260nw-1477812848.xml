@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Ecureuil</folder>
+	<filename>squirrel-footprints-on-snow-animal-260nw-1477812848.jpg</filename>
+	<path>C:\Users\Thuy-trang\Desktop\mspr-ia\projet MSPR\Mammiferes\Ecureuil\squirrel-footprints-on-snow-animal-260nw-1477812848.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecureuil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>57</ymin>
+			<xmax>127</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ecureuil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>63</ymin>
+			<xmax>196</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

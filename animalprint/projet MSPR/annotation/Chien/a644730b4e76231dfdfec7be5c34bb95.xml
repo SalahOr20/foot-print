@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chien</folder>
+	<filename>a644730b4e76231dfdfec7be5c34bb95.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chien\a644730b4e76231dfdfec7be5c34bb95.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1365</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>801</ymin>
+			<xmax>531</xmax>
+			<ymax>1216</ymax>
+		</bndbox>
+	</object>
+</annotation>

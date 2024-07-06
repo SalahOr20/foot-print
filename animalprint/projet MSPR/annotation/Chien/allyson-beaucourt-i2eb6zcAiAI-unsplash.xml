@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chien</folder>
+	<filename>allyson-beaucourt-i2eb6zcAiAI-unsplash.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chien\allyson-beaucourt-i2eb6zcAiAI-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3888</width>
+		<height>5184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1221</xmin>
+			<ymin>3007</ymin>
+			<xmax>2596</xmax>
+			<ymax>4042</ymax>
+		</bndbox>
+	</object>
+</annotation>

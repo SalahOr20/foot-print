@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lapin</folder>
+	<filename>rabbit-paw-tracks-winter-forest-600w-2370319579.jpg</filename>
+	<path>C:\Users\Thuy-trang\Desktop\mspr-ia\projet MSPR\Mammiferes\Lapin\rabbit-paw-tracks-winter-forest-600w-2370319579.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lapin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>349</ymin>
+			<xmax>383</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>

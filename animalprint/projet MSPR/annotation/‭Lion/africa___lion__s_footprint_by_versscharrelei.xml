@@ -1,0 +1,26 @@
+<annotation>
+	<folder>‭lion</folder>
+	<filename>africa___lion__s_footprint_by_versscharrelei.jpg</filename>
+	<path>C:\Users\marhr\Desktop\‭lion\africa___lion__s_footprint_by_versscharrelei.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1011</xmin>
+			<ymin>823</ymin>
+			<xmax>2246</xmax>
+			<ymax>1600</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Chien</folder>
+	<filename>lucie-dorne-3a2nF1PYLqY-unsplash.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chien\lucie-dorne-3a2nF1PYLqY-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>5184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1975</xmin>
+			<ymin>736</ymin>
+			<xmax>2680</xmax>
+			<ymax>1117</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1300</xmin>
+			<ymin>1702</ymin>
+			<xmax>1990</xmax>
+			<ymax>2072</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Lapin</folder>
+	<filename>footprint-wild-rabbit-winter-snow-footprint-wild-rabbit-136256125.jpg</filename>
+	<path>C:\Users\Thuy-trang\Desktop\mspr-ia\projet MSPR\Mammiferes\Lapin\footprint-wild-rabbit-winter-snow-footprint-wild-rabbit-136256125.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lapin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>340</ymin>
+			<xmax>196</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lapin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>347</ymin>
+			<xmax>281</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+</annotation>

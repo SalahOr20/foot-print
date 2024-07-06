@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Lapin</folder>
+	<filename>rabbit-paw-print-fresh-snow-260nw-2254760939.jpg</filename>
+	<path>C:\Users\Thuy-trang\Desktop\mspr-ia\projet MSPR\Mammiferes\Lapin\rabbit-paw-print-fresh-snow-260nw-2254760939.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lapin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>49</ymin>
+			<xmax>224</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lapin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>161</ymin>
+			<xmax>314</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

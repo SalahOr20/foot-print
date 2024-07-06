@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Lapin</folder>
+	<filename>rabbit-footprints-snow-trailing-woods-closeup-animal-visible-flakes-123535672.jpg</filename>
+	<path>C:\Users\Thuy-trang\Desktop\mspr-ia\projet MSPR\Mammiferes\Lapin\rabbit-footprints-snow-trailing-woods-closeup-animal-visible-flakes-123535672.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lapin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>637</ymin>
+			<xmax>325</xmax>
+			<ymax>780</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lapin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>629</ymin>
+			<xmax>465</xmax>
+			<ymax>777</ymax>
+		</bndbox>
+	</object>
+</annotation>

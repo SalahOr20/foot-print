@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chien</folder>
+	<filename>carole-hachet-d-Uz5lt2CO0-unsplash.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chien\carole-hachet-d-Uz5lt2CO0-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3200</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2428</xmin>
+			<ymin>882</ymin>
+			<xmax>2771</xmax>
+			<ymax>1211</ymax>
+		</bndbox>
+	</object>
+</annotation>

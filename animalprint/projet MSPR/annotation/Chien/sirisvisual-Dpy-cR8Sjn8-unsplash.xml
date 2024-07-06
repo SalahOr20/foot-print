@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chien</folder>
+	<filename>sirisvisual-Dpy-cR8Sjn8-unsplash.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chien\sirisvisual-Dpy-cR8Sjn8-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>5184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1080</xmin>
+			<ymin>1892</ymin>
+			<xmax>2310</xmax>
+			<ymax>3052</ymax>
+		</bndbox>
+	</object>
+</annotation>

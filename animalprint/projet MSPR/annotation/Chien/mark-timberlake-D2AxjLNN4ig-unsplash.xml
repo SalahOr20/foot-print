@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chien</folder>
+	<filename>mark-timberlake-D2AxjLNN4ig-unsplash.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chien\mark-timberlake-D2AxjLNN4ig-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1164</xmin>
+			<ymin>1908</ymin>
+			<xmax>2610</xmax>
+			<ymax>2708</ymax>
+		</bndbox>
+	</object>
+</annotation>

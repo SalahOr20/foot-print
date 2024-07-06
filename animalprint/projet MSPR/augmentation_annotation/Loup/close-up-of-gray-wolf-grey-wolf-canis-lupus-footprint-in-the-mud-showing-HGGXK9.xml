@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Loup</folder>
+	<filename>close-up-of-gray-wolf-grey-wolf-canis-lupus-footprint-in-the-mud-showing-HGGXK9.jpg</filename>
+	<path>C:\Users\Thuy-trang\Desktop\mspr-ia\projet MSPR\Mammiferes\Loup\close-up-of-gray-wolf-grey-wolf-canis-lupus-footprint-in-the-mud-showing-HGGXK9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>116</ymin>
+			<xmax>993</xmax>
+			<ymax>857</ymax>
+		</bndbox>
+	</object>
+</annotation>

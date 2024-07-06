@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ecureuil</folder>
+	<filename>original_1.jpeg</filename>
+	<path>C:\Users\Thuy-trang\Desktop\mspr-ia\projet MSPR\Mammiferes\Ecureuil\original_1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecureuil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>324</ymin>
+			<xmax>1131</xmax>
+			<ymax>1083</ymax>
+		</bndbox>
+	</object>
+</annotation>

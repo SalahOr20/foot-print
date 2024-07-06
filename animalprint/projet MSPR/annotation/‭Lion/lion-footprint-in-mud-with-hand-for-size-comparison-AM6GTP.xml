@@ -1,0 +1,26 @@
+<annotation>
+	<folder>‭lion</folder>
+	<filename>lion-footprint-in-mud-with-hand-for-size-comparison-AM6GTP.jpg</filename>
+	<path>C:\Users\marhr\Desktop\‭lion\lion-footprint-in-mud-with-hand-for-size-comparison-AM6GTP.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>708</xmin>
+			<ymin>220</ymin>
+			<xmax>1155</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+</annotation>

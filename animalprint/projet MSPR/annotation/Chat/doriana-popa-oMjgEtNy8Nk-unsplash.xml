@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Chat</folder>
+	<filename>doriana-popa-oMjgEtNy8Nk-unsplash.jpg</filename>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Chat\doriana-popa-oMjgEtNy8Nk-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>6016</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1297</xmin>
+			<ymin>2184</ymin>
+			<xmax>2073</xmax>
+			<ymax>3301</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2032</xmin>
+			<ymin>2701</ymin>
+			<xmax>2855</xmax>
+			<ymax>3525</ymax>
+		</bndbox>
+	</object>
+</annotation>

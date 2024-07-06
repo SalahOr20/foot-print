@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raton laveur</folder>
+	<filename>original (1).jpg</filename>
+	<path>C:\Users\user\OneDrive\Documents\GitHub\mspr-ia\projet MSPR\Mammiferes\Raton laveur\original (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1463</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>129</ymin>
+			<xmax>1875</xmax>
+			<ymax>1415</ymax>
+		</bndbox>
+	</object>
+</annotation>

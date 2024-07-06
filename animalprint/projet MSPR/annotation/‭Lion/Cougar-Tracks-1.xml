@@ -1,0 +1,26 @@
+<annotation>
+	<folder>‭lion</folder>
+	<filename>Cougar-Tracks-1.jpg</filename>
+	<path>C:\Users\marhr\Desktop\‭lion\Cougar-Tracks-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>751</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>44</ymin>
+			<xmax>694</xmax>
+			<ymax>749</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chien</folder>
+	<filename>17399661-fond-d-empreintes-de-chien-sur-le-sol-en-ciment-gratuit-photo.JPG4.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chien\17399661-fond-d-empreintes-de-chien-sur-le-sol-en-ciment-gratuit-photo.JPG4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>68</ymin>
+			<xmax>116</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Chien</folder>
+	<filename>2c4k1y6.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chien\2c4k1y6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>233</ymin>
+			<xmax>340</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>417</ymin>
+			<xmax>334</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

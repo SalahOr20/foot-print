@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chien</folder>
+	<filename>29852878-photographie-a-theme-grande-empreinte-animal-chien-fermer-photo4.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chien\29852878-photographie-a-theme-grande-empreinte-animal-chien-fermer-photo4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>267</width>
+		<height>200</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>32</ymin>
+			<xmax>222</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

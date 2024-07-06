@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Chien</folder>
+	<filename>stephanie-klepacki-M-wNTtKsDgc-unsplash.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chien\stephanie-klepacki-M-wNTtKsDgc-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1229</xmin>
+			<ymin>2516</ymin>
+			<xmax>2056</xmax>
+			<ymax>3485</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>752</xmin>
+			<ymin>1881</ymin>
+			<xmax>1321</xmax>
+			<ymax>2473</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Chien</folder>
+	<filename>Dog-Tracks-(Gallop).jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chien\Dog-Tracks-(Gallop).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>534</ymin>
+			<xmax>227</xmax>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>546</xmin>
+			<ymin>326</ymin>
+			<xmax>616</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

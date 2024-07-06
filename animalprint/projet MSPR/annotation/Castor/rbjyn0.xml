@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Castor</folder>
+	<filename>rbjyn0.jpg</filename>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Castor\rbjyn0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>347</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beaver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>99</ymin>
+			<xmax>318</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

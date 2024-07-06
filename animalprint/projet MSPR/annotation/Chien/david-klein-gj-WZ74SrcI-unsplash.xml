@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chien</folder>
+	<filename>david-klein-gj-WZ74SrcI-unsplash.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chien\david-klein-gj-WZ74SrcI-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1707</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>880</xmin>
+			<ymin>1346</ymin>
+			<xmax>1117</xmax>
+			<ymax>1565</ymax>
+		</bndbox>
+	</object>
+</annotation>

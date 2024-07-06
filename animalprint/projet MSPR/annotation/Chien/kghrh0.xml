@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chien</folder>
+	<filename>kghrh0.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chien\kghrh0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>347</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>310</ymin>
+			<xmax>293</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>
