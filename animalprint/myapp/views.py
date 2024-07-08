@@ -25,9 +25,7 @@ def predict_animal(request):
         # Prédire la classe de l'animal
         predicted_class = predict_animal_from_path(image_path, model)
 
-        # Supprimer l'image temporaire après utilisation (optionnel)
-        if os.path.exists(image_path):
-            os.remove(image_path)
+
 
         if predicted_class is not None:
             # Mapper les indices de classes aux noms des animaux
